@@ -6,3 +6,5 @@ bananas
 cherries
 carrots
 cereal
+mangoes
+grapes
