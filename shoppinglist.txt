@@ -1,0 +1,7 @@
+List:
+
+Applies
+oranges
+bananas
+cherries
+carrots
